@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="67de75b4-a232-4cc7-9190-0a5675be5115" name="projectro">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
